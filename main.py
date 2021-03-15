@@ -51,6 +51,7 @@ def main():
             lst_shit_coins.append(symbol)
 
     pd.DataFrame({'shit_coins': lst_shit_coins}).to_csv('list_of_shit_coins.csv')
+    logging.info(f'list_of_shit_coins.csv saved!') ## TODO: add date generated
 
 if __name__ == '__main__':
     main()
