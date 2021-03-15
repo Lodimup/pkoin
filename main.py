@@ -25,10 +25,11 @@ def main():
     lst_symbols = be.get_symbols(filter='USDT')
 
     lst_shit_coins = []
+    # TODO: append all pulled data in df instead
     for symbol in lst_symbols:
         client = Client()
         logging.info(f'Getting {symbol}...')
-        
+
         try:
             klines = client.get_historical_klines(symbol, Client.KLINE_INTERVAL_1DAY, "2 weeks ago UTC", "today")
         except Exception as e:
