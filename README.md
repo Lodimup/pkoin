@@ -17,4 +17,4 @@ run via
 or   
 ```python3 main.py```  
 
-What you do with information gained from this program is at your own risk. This is not a financial advice. Please trade responsibly.  
+What you do with any information gained from this program is at your own risk. This is not a financial advice. Please trade responsibly.  
