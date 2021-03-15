@@ -10,7 +10,11 @@ Shit coins are more volatile than the market but has less downside since people 
 **How to install**
 Install Python 3 via Anaconda: https://www.anaconda.com/products/individual
 clone this project
-pip install -r requirements.txt
-run via python main.py or python3 main.py
+```git clone https://github.com/Lodimup/pkoin.git```
+```pip install -r requirements.txt```
+run via 
+```python main.py```
+or 
+```python3 main.py```
 
 What you do with information gained from this program is at your own risk. This is not a financial advice. Please trade responsibly.
