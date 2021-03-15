@@ -5,7 +5,10 @@ This program is name in an hornor of my friend, Pakin who came up with this stra
 
 **Key assumptions**
 
-Shit coins are more volatile than the market but has less downside since people tends to HODL them when the market is bear.
+Shit coins are more volatile than the market but has less downside since people tends to HODL them when the market is bearish.
+
+***Settings**  
+TBA
 
 **How to install**  
 Install Python 3 via Anaconda: https://www.anaconda.com/products/individual  
