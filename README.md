@@ -18,6 +18,7 @@ TBA
 Install Python 3 via Anaconda: https://www.anaconda.com/products/individual  
 clone this project  
 ```git clone https://github.com/Lodimup/pkoin.git```  
+install python-binance api wrapper  
 ```pip install -r requirements.txt```  
 run via   
 ```python main.py```  
